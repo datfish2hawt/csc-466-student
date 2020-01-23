@@ -96,6 +96,7 @@ titanic_df.describe()
 ```
 
 ## Exercise 0
+HAD AN ISSUE PUSHING PLEASE SEE PARTNER'S GITHUB (SHREYA TUMMA).
 In your own words, describe the preprocessing steps I took above.
 
 
